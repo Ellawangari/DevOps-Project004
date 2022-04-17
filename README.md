@@ -45,3 +45,12 @@ Technology Stack used was **MEAN**( MongoDB ExpessJS Angular Node.js)
   -  Started the server by running  `node server.js`
   -  Ensured i had open tcp port 3300 and accessed my Web Book register via the browser.
       ![alt text](https://github.com/Ellawangari/DevOps-Project004/blob/main/Images/13.PNG)
+      
+      
+   ** This Project was truly an awesome experience as I got to learn new technologies.**
+**End of DevOps Project 4**
+To try this project  [darey.io](https://www.darey.io) has a free trial to which you can practice this project.
+    
+ 
+
+
