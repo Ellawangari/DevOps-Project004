@@ -42,4 +42,6 @@ Technology Stack used was **MEAN**( MongoDB ExpessJS Angular Node.js)
   **Step 4:Accessing the Routes with Angular**
   - On the books directory i added a folder called public and added a script.js file which i then added some code to the file.
   - Also on the same folder i created another file called index.html added code to it.
-   
+  -  Started the server by running  `node server.js`
+  -  Ensured i had open tcp port 3300 and accessed my Web Book register via the browser.
+      ![alt text](https://github.com/Ellawangari/DevOps-Project004/blob/main/Images/13.PNG)
